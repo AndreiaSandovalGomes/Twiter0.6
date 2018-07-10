@@ -1,0 +1,2 @@
+VERSÃO 0.0.6
+Adicione a hora em que o tweet foi publicado no formato de 24 horas hh:mm.
